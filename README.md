@@ -1,1 +1,1 @@
-A Shadowrocket proxy rules
+Shadowrocket规则，针对机场屏蔽建政网站进行代理。
